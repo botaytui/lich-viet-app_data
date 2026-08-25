@@ -3,14 +3,7 @@
   "department": "SỞ Y TẾ TỈNH CÀ MAU",
   "weekTitle": "LỊCH TRỰC TRONG TUẦN",
   "weekRange": "Từ ngày 17/8/2026 đến ngày 30/8/2026",
-  "lastUpdated": "2026-08-25T15:46:54.553Z",
-  "signatory": {
-    "location": "Cà Mau",
-    "dateSigned": "ngày 13 tháng 8 năm 2026",
-    "creator": "Nguyễn Thị Ánh",
-    "approver": "NGUYỄN CHÍ LINH",
-    "approverTitle": "KT. GIÁM ĐỐC - PHÓ GIÁM ĐỐC"
-  },
+  "lastUpdated": "2026-08-25T22:40:00.000Z",
   "hotlines": {
     "viTinhLoc": "0945.222.822",
     "viTinhTri": "0949.060.422"
@@ -18,7 +11,7 @@
   "rules": [
     "Trực 24/24: Từ 7h sáng hôm nay đến 7h sáng hôm sau.",
     "Khoa HSCC: Bác sĩ, Điều dưỡng trực ngày từ 7h - 17h, đêm từ 17h - 7h hôm sau.",
-    "Trực thường trú: KS Lộc: 0945.222.822, KS Trí: 0949.060.422",
+    "Trực thường trú: KS Lộc: 0945.222.822, KS Trí: 0949.060.422.",
     "Bác sĩ trực Khoa Lao trực Khoa Lao và Khoa NTH. Bác sĩ trực khoa NTH trực Khoa NTH và Khoa Lao."
   ],
   "days": {
@@ -48,7 +41,7 @@
         "night": "Bs.Hậu; ĐD.Toàn-Thuỳ"
       },
       "khoaLao": "ĐD Nhỏ\nĐD Là",
-      "khoaNth": "Bs.D.Yến\nĐD.Nghiệm",
+      "khoaNth": "Bs.Đ.Yến\nĐD.Nghiệm",
       "xetNghiem": "CN.Chân",
       "thuVienPhi": "Vể",
       "viTinh": "Lộc",
@@ -83,7 +76,7 @@
       },
       "khoaLao": "ĐD Âu\nĐD Là",
       "khoaNth": "Bs.Phét\nĐD.Trúc",
-      "xetNghiem": "CN.Nhiễn",
+      "xetNghiem": "CN.Nhiễm",
       "thuVienPhi": "Lợi",
       "viTinh": "Lộc",
       "taiXe": "Cường",
@@ -116,7 +109,7 @@
         "night": "Bs.Hương; ĐD.Quốc-Khoa"
       },
       "khoaLao": "ĐD Là\nĐD Âu",
-      "khoaNth": "Bs.D.Yến\nĐD.Tài",
+      "khoaNth": "Bs.Đ.Yến\nĐD.Tài",
       "xetNghiem": "CN.Nhân",
       "thuVienPhi": "Linh",
       "viTinh": "Lộc",
