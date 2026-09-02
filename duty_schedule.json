@@ -3,7 +3,7 @@
   "department": "SỞ Y TẾ TỈNH CÀ MAU",
   "weekTitle": "LỊCH TRỰC TRONG TUẦN",
   "weekRange": "Từ ngày 17/8/2026 đến ngày 06/9/2026",
-  "lastUpdated": "2026-08-26T09:24:47.002Z",
+  "lastUpdated": "2026-09-02T12:03:50.758Z",
   "hotlines": {
     "viTinhLoc": "0945.222.822",
     "viTinhTri": "0949.060.422"
@@ -40,7 +40,7 @@
         "day": "Bs.Khoa; ĐD.Quốc-Khoa",
         "night": "Bs.Hậu; ĐD.Toàn-Thuỳ"
       },
-      "khoaLao": "ĐD Nhỏ\nĐD Là",
+      "khoaLao": "ĐD Nhô\nĐD Là",
       "khoaNth": "Bs.Đ.Yến\nĐD.Nghiệm",
       "xetNghiem": "CN.Chân",
       "thuVienPhi": "Vể",
@@ -91,7 +91,7 @@
         "day": "Bs.Hương; ĐD.Quốc-Khoa",
         "night": "Bs.Vinh; ĐD.Toàn-Thuỳ"
       },
-      "khoaLao": "ĐD Nhỏ\nĐD Thuý",
+      "khoaLao": "ĐD Nhô\nĐD Thuý",
       "khoaNth": "Bs.Quyên\nĐD.Tuấn",
       "xetNghiem": "CN.Bảo",
       "thuVienPhi": "Vể",
@@ -125,7 +125,7 @@
         "day": "Bs.Khoa; ĐD.Toàn-Thuỳ",
         "night": "Bs.Hậu; ĐD.Hưng-Nhiễm"
       },
-      "khoaLao": "ĐD Thuý\nĐD Nhỏ",
+      "khoaLao": "ĐD Thuý\nĐD Nhô",
       "khoaNth": "Bs.L.Yến\nĐD.Trúc",
       "xetNghiem": "CN.Chân",
       "thuVienPhi": "Lợi",
@@ -276,9 +276,9 @@
       "leader": "Bs.Đi",
       "hscc": {
         "day": "Bs. Vinh; ĐD. Toàn-Thuỳ",
-        "night": null
+        "night": ""
       },
-      "khoaLao": "ĐD Nhỏ\nĐD Thuý",
+      "khoaLao": "ĐD Nhô\nĐD Thuý",
       "khoaNth": "Bs.Phét\nĐD.Tài",
       "xetNghiem": "CN.Nhân",
       "thuVienPhi": "Linh",
@@ -329,7 +329,7 @@
         "day": "Bs.Hương; ĐD.Toàn-Thuỳ",
         "night": "Bs.Lai; ĐD.Hưng-Nhiễm"
       },
-      "khoaLao": "ĐD Nhỏ\nĐD Thuý",
+      "khoaLao": "ĐD Nhô\nĐD Thuý",
       "khoaNth": "Bs.L.Yến\nĐD.Tuấn",
       "xetNghiem": "CN.Nhiễn",
       "thuVienPhi": "Linh",
@@ -363,7 +363,7 @@
         "day": "Bs.Hậu; ĐD.Hưng-Nhiễm",
         "night": "Bs.Vinh; ĐD.Nguyễn-Quốc"
       },
-      "khoaLao": "ĐD Nhỏ\nĐD Thuý",
+      "khoaLao": "ĐD Nhô\nĐD Thuý",
       "khoaNth": "Bs.Quyên\nĐD.Nghiệm",
       "xetNghiem": "CN.Nhân",
       "thuVienPhi": "Vể",
