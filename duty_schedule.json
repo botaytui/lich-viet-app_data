@@ -2,15 +2,15 @@
   "hospitalName": "BỆNH VIỆN LAO VÀ BỆNH PHỔI BẠC LIÊU",
   "department": "SỞ Y TẾ TỈNH CÀ MAU",
   "weekTitle": "LỊCH TRỰC TRONG TUẦN",
-  "weekRange": "Từ ngày 17/8/2026 đến ngày 06/9/2026",
-  "lastUpdated": "2026-09-02T12:03:50.758Z",
+  "weekRange": "Từ ngày 17/8/2026 đến ngày 13/9/2026",
+  "lastUpdated": "2026-09-04T03:53:00.837Z",
   "hotlines": {
     "viTinhLoc": "0945.222.822",
     "viTinhTri": "0949.060.422"
   },
   "rules": [
     "Trực 24/24: Từ 7h sáng hôm nay đến 7h sáng hôm sau.",
-    "Khoa HSCC: Bác sĩ, Điều dưỡng trực ngày từ 7h -17h, đêm từ 17h - 7h hôm sau.",
+    "Khoa HSCC: Bác sĩ, Điều dưỡng trực ngày từ 7h - 17h, đêm từ 17h - 7h hôm sau.",
     "Trực thường trú: KS Lộc: 0945.222.822, KS Trí: 0949.060.422",
     "Bác sĩ trực Khoa Lao trực Khoa Lao và Khoa NTH. Bác sĩ trực khoa NTH trực Khoa NTH và Khoa Lao."
   ],
@@ -371,6 +371,125 @@
       "taiXe": "Khoa",
       "dienNuoc": "Phúc",
       "baoVe": "Giang"
+    },
+    "2026-09-07": {
+      "dayOfWeek": "Thứ 2",
+      "dateStr": "07/9/2026",
+      "leader": "Bs.Linh",
+      "hscc": {
+        "day": "Ngày:Bs.Hậu; ĐD.Khoa-Nị",
+        "night": "Đêm:Bs.Lai; ĐD.Hưng-Nhiễm"
+      },
+      "khoaLao": "ĐD Tuyền\nĐD Âu",
+      "khoaNth": "Bs.L.Yến\nĐD.Trúc",
+      "xetNghiem": "CN.Tới",
+      "thuVienPhi": "Linh",
+      "viTinh": "Lộc",
+      "taiXe": "Cường",
+      "dienNuoc": "Hoài",
+      "baoVe": "Sang"
+    },
+    "2026-09-08": {
+      "dayOfWeek": "Thứ 3",
+      "dateStr": "08/9/2026",
+      "leader": "Bs.Dũng",
+      "hscc": {
+        "day": "Ngày:Bs.Khoa; ĐD.Nguyên-Thuỳ",
+        "night": "Đêm:Bs.Hậu; ĐD.Quốc-Nị"
+      },
+      "khoaLao": "ĐD Nhô\nĐD Gấm",
+      "khoaNth": "Bs.Phét\nĐD.Tuấn",
+      "xetNghiem": "CN.Nhiễn",
+      "thuVienPhi": "Lợi",
+      "viTinh": "Trí",
+      "taiXe": "Khoa",
+      "dienNuoc": "Phúc",
+      "baoVe": "Tấn"
+    },
+    "2026-09-09": {
+      "dayOfWeek": "Thứ 4",
+      "dateStr": "09/9/2026",
+      "leader": "Bs.Điền",
+      "hscc": {
+        "day": "Ngày:Bs.Lai; ĐD.Hưng-Khoa",
+        "night": "Đêm:Bs.Khoa; ĐD.Nguyên-Thuỳ"
+      },
+      "khoaLao": "ĐD Tuyền\nĐD Thuý",
+      "khoaNth": "Bs.Quyên\nĐD.Tài",
+      "xetNghiem": "CN.Bảo",
+      "thuVienPhi": "Vể",
+      "viTinh": "Lộc",
+      "taiXe": "Cường",
+      "dienNuoc": "Hoài",
+      "baoVe": "Giang"
+    },
+    "2026-09-10": {
+      "dayOfWeek": "Thứ 5",
+      "dateStr": "10/9/2026",
+      "leader": "Bs.Phương",
+      "hscc": {
+        "day": "Ngày:Bs.Hậu; ĐD.Quốc-Nị",
+        "night": "Đêm:Bs.Lai; ĐD.Hưng-Khoa"
+      },
+      "khoaLao": "ĐD Âu\nĐD Nhô",
+      "khoaNth": "Bs.L.Yến\nĐD.Nghiệm",
+      "xetNghiem": "CN.Tới",
+      "thuVienPhi": "Linh",
+      "viTinh": "Trí",
+      "taiXe": "Khoa",
+      "dienNuoc": "Phúc",
+      "baoVe": "Sang"
+    },
+    "2026-09-11": {
+      "dayOfWeek": "Thứ 6",
+      "dateStr": "11/9/2026",
+      "leader": "Bs.Đi",
+      "hscc": {
+        "day": "Ngày:Bs.Khoa; ĐD.Nguyên-Nhiễm",
+        "night": "Đêm:Bs.Hậu; ĐD.Quốc-Nị"
+      },
+      "khoaLao": "ĐD Tuyền\nĐD Gấm",
+      "khoaNth": "Bs.Phét\nĐD.Tuấn",
+      "xetNghiem": "CN.Nhân",
+      "thuVienPhi": "Lợi",
+      "viTinh": "Lộc",
+      "taiXe": "Cường",
+      "dienNuoc": "Hoài",
+      "baoVe": "Tấn"
+    },
+    "2026-09-12": {
+      "dayOfWeek": "Thứ 7",
+      "dateStr": "12/9/2026",
+      "leader": "Bs.Linh",
+      "hscc": {
+        "day": "Ngày:Bs.Lai; ĐD.Hưng-Thuỳ",
+        "night": "Đêm:Bs.Khoa; ĐD.Nguyên-Nhiễm"
+      },
+      "khoaLao": "ĐD Âu\nĐD Thuý",
+      "khoaNth": "Bs.Quyên\nĐD.Tài",
+      "xetNghiem": "CN.Nhiễn",
+      "thuVienPhi": "Vể",
+      "viTinh": "Trí",
+      "taiXe": "Khoa",
+      "dienNuoc": "Phúc",
+      "baoVe": "Giang"
+    },
+    "2026-09-13": {
+      "dayOfWeek": "Chủ nhật",
+      "dateStr": "13/9/2026",
+      "leader": "Bs.Dũng",
+      "hscc": {
+        "day": "Ngày:Bs.Khoa; ĐD.Khoa-Nị",
+        "night": "Đêm:Bs.Lai; ĐD.Hưng-Thuỳ"
+      },
+      "khoaLao": "ĐD Nhô\nĐD Gấm",
+      "khoaNth": "Bs.L.Yến\nĐD.Nghiệm",
+      "xetNghiem": "CN.Bảo",
+      "thuVienPhi": "Linh",
+      "viTinh": "Lộc",
+      "taiXe": "Cường",
+      "dienNuoc": "Hoài",
+      "baoVe": "Sang"
     }
   }
 }
