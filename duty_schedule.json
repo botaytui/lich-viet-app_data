@@ -2,8 +2,8 @@
   "hospitalName": "BỆNH VIỆN LAO VÀ BỆNH PHỔI BẠC LIÊU",
   "department": "SỞ Y TẾ TỈNH CÀ MAU",
   "weekTitle": "LỊCH TRỰC TRONG TUẦN",
-  "weekRange": "Từ ngày 17/8/2026 đến ngày 20/9/2026",
-  "lastUpdated": "2026-09-11T02:40:52.430Z",
+  "weekRange": "Từ ngày 17/8/2026 đến ngày 27/9/2026",
+  "lastUpdated": "2026-09-27T12:01:19.009Z",
   "hotlines": {
     "viTinhLoc": "0945.222.822",
     "viTinhTri": "0949.060.422"
@@ -608,6 +608,125 @@
       "viTinh": "Trí",
       "taiXe": "Khoa",
       "dienNuoc": "Phúc",
+      "baoVe": "Tấn"
+    },
+    "2026-09-21": {
+      "dayOfWeek": "Thứ 2",
+      "dateStr": "21/9/2026",
+      "leader": "Bs.Linh",
+      "hscc": {
+        "day": "Bs.Lai; ĐD.Toàn-Khoa",
+        "night": "Bs.Khoa; ĐD.Nguyễn-Thuỳ"
+      },
+      "khoaLao": "ĐD Tuyền\nĐD Là",
+      "khoaNth": "Bs.Phét\nĐD.Nghiệm",
+      "xetNghiem": "CN.Nhân",
+      "thuVienPhi": "Vể",
+      "viTinh": "Lộc",
+      "taiXe": "Cường",
+      "dienNuoc": "Hoài",
+      "baoVe": "Giang"
+    },
+    "2026-09-22": {
+      "dayOfWeek": "Thứ 3",
+      "dateStr": "22/9/2026",
+      "leader": "Bs.Dũng",
+      "hscc": {
+        "day": "Bs.Hậu; ĐD.Quốc-Nị",
+        "night": "Bs.Lai; ĐD.Toàn-Khoa"
+      },
+      "khoaLao": "ĐD Nhô\nĐD Gấm",
+      "khoaNth": "Bs.Quyên\nĐD.Trúc",
+      "xetNghiem": "CN.Nhiễn",
+      "thuVienPhi": "Linh",
+      "viTinh": "Trí",
+      "taiXe": "Khoa",
+      "dienNuoc": "Phúc",
+      "baoVe": "Sang"
+    },
+    "2026-09-23": {
+      "dayOfWeek": "Thứ 4",
+      "dateStr": "23/9/2026",
+      "leader": "Bs.Điền",
+      "hscc": {
+        "day": "Bs.Khoa; ĐD.Nguyễn-Thuỳ",
+        "night": "Bs.Hậu; ĐD.Quốc-Nị"
+      },
+      "khoaLao": "ĐD Tuyền\nĐD Thuý",
+      "khoaNth": "Bs.L.Yến\nĐD.Tài",
+      "xetNghiem": "CN.Tới",
+      "thuVienPhi": "Lợi",
+      "viTinh": "Lộc",
+      "taiXe": "Cường",
+      "dienNuoc": "Hoài",
+      "baoVe": "Tấn"
+    },
+    "2026-09-24": {
+      "dayOfWeek": "Thứ 5",
+      "dateStr": "24/9/2026",
+      "leader": "Bs.Đi",
+      "hscc": {
+        "day": "Bs.Lai; ĐD.Khoa-Nhiễm",
+        "night": "Bs.Khoa; ĐD.Nguyễn-Thuỳ"
+      },
+      "khoaLao": "ĐD Là\nĐD Nhô",
+      "khoaNth": "Bs.Phét\nĐD.Nghiệm",
+      "xetNghiem": "CN.Nhân",
+      "thuVienPhi": "Vể",
+      "viTinh": "Trí",
+      "taiXe": "Khoa",
+      "dienNuoc": "Phúc",
+      "baoVe": "Sang"
+    },
+    "2026-09-25": {
+      "dayOfWeek": "Thứ 6",
+      "dateStr": "25/9/2026",
+      "leader": "Bs.Phương",
+      "hscc": {
+        "day": "Bs.Hậu; ĐD.Quốc-Nị",
+        "night": "Bs.Lai; ĐD.Khoa-Nhiễm"
+      },
+      "khoaLao": "ĐD Tuyền\nĐD Gấm",
+      "khoaNth": "Bs.Quyên\nĐD.Trúc",
+      "xetNghiem": "CN.Nhiễn",
+      "thuVienPhi": "Linh",
+      "viTinh": "Lộc",
+      "taiXe": "Cường",
+      "dienNuoc": "Hoài",
+      "baoVe": "Tấn"
+    },
+    "2026-09-26": {
+      "dayOfWeek": "Thứ 7",
+      "dateStr": "26/9/2026",
+      "leader": "Bs.Linh",
+      "hscc": {
+        "day": "Bs.Khoa; ĐD.Nguyễn-Thuỳ",
+        "night": "Bs.Hậu; ĐD.Quốc-Nị"
+      },
+      "khoaLao": "ĐD Là\nĐD Thuý",
+      "khoaNth": "Bs.L.Yến\nĐD.Tài",
+      "xetNghiem": "CN.Tới",
+      "thuVienPhi": "Lợi",
+      "viTinh": "Trí",
+      "taiXe": "Khoa",
+      "dienNuoc": "Phúc",
+      "baoVe": "Sang"
+    },
+    "2026-09-27": {
+      "dayOfWeek": "Chủ nhật",
+      "dateStr": "27/9/2026",
+      "leader": "Bs.Dũng",
+      "hscc": {
+        "day": "Bs.Lai; ĐD.Toàn-Khoa",
+        "night": "Bs.Khoa; ĐD.Nguyễn-Thuỳ"
+      },
+      "khoaLao": "ĐD Nhô\nĐD Ngân",
+      "khoaNth": "Bs.L.Phét\nĐD.Nghiệm",
+      "xetNghiem": "CN.Bảo",
+      "thuVienPhi": "Vể",
+      "viTinh": "Lộc",
+      "taiXe": "Cường",
+      "dienNuoc": "Hoài",
       "baoVe": "Tấn"
     }
   }
